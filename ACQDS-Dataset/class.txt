@@ -1,0 +1,9 @@
+explain  0
+include  1
+application  2
+influence  3
+characteristic  4
+function  5
+method  6
+step  7
+alias  8
